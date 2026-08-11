@@ -105,4 +105,4 @@ defaults:
       index : true
 
 variables:
-  vespa_version: "8.733.3"
+  vespa_version: "8.736.12"
